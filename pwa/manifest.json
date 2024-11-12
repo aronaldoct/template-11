@@ -1,0 +1,29 @@
+{
+    "name": "Ciervos Page",
+    "short_name": "Ciervos",
+    "description": "Pagina de caza",
+    "background_color": "#3c0e0e",
+    "theme_color": "#3c0e0e",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../images/pwa/ciervo.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/ciervo1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/ciervo2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
